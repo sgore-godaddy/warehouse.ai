@@ -1,6 +1,15 @@
 # Changelog
 
+
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 7.4.1
+
+- fix(set-head): query for speicific version of the object in the index when verifying existence of the object version before setting head version ([#151](https://github.com/godaddy/warehouse.ai/pull/151))
+
+## 7.4.0
+
+- feat(cdn): use single fingerprint for all files in a package ([#150](https://github.com/godaddy/warehouse.ai/pull/150))
 
 ## 7.3.0
 
